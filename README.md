@@ -1,52 +1,52 @@
 # Disable Ammu-Nation Sounds
 
-Dieses Script deaktiviert die Schussgeräusche in der Nähe von Ammu-Nation-Standorten für ein ruhigeres und weniger störendes Spielerlebnis.
+This script disables the gunshot ambient sounds near Ammu-Nation locations for a cleaner and less noisy gaming experience.
 
-## 📋 Beschreibung
+## 📋 Description
 
-Wenn du es leid bist, von den ständigen Schussgeräuschen und Ambient-Sounds rund um Ammu-Nation-Filialen gestört zu werden, ist dieses Script die perfekte Lösung. Es entfernt diese nervigen Hintergrundgeräusche und gibt dir ein entspannteres Spielerlebnis.
+Tired of the constant gunshot sounds and ambient noise around Ammu-Nation stores? This script is the perfect solution. It removes those annoying background sounds and gives you a more peaceful gaming experience.
 
-## ✨ Funktionen
+## ✨ Features
 
-- ✅ Deaktiviert Schussgeräusche bei Ammu-Nation-Standorten
-- ✅ Einfache Installation und Verwendung
-- ✅ Minimale Performance-Auswirkung
-- ✅ Kompatibel mit anderen Skripten
+- ✅ Disables gunshot sounds at Ammu-Nation locations
+- ✅ Easy installation and usage
+- ✅ Minimal performance impact
+- ✅ Compatible with other scripts
 
 ## 🚀 Installation
 
-1. **Script herunterladen**
+1. **Download the script**
    ```bash
    git clone https://github.com/DEVLeon06/disable_ammunation_sounds.git
    ```
 
-2. **In dein Spiel-Verzeichnis kopieren**
-   - Kopiere die Dateien in dein Hauptspielverzeichnis
+2. **Copy to your game directory**
+   - Copy the files to your main game directory
 
-3. **Aktivieren**
-   - Starte das Spiel und das Script wird automatisch aktiv
+3. **Activate**
+   - Start the game and the script will be automatically active
 
-## 📖 Verwendung
+## 📖 Usage
 
-Das Script wird automatisch beim Starten des Spiels geladen. Es ist keine weitere Konfiguration erforderlich.
+The script is automatically loaded when you start the game. No further configuration is required.
 
-## 🔧 Anforderungen
+## 🔧 Requirements
 
-- Grund: Grand Theft Auto (Modding erforderlich)
-- Modding-Framework: [Hier Anforderungen einfügen]
+- Game: Grand Theft Auto (Modding required)
+- Modding Framework: [Add framework requirements here]
 
-## 📝 Lizenz
+## 📝 License
 
-Dieses Projekt ist unter der [Lizenz einfügen] lizenziert.
+This project is licensed under the [Add license here] license.
 
-## 🤝 Beitragen
+## 🤝 Contributing
 
-Beiträge sind willkommen! Bitte öffne ein Issue oder erstelle einen Pull Request mit deinen Verbesserungen.
+Contributions are welcome! Please open an issue or create a pull request with your improvements.
 
-## 📞 Unterstützung
+## 📞 Support
 
-Bei Fragen oder Problemen erstelle bitte ein Issue in diesem Repository.
+If you have any questions or issues, please create an issue in this repository.
 
 ---
 
-**Hinweis:** Dieses Script ist für Modding-Zwecke gedacht. Stelle sicher, dass du dich an die Lizenzbestimmungen des Spiels hältst.
+**Note:** This script is intended for modding purposes. Make sure to comply with the game's license terms.
