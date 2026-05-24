@@ -20,24 +20,24 @@ Tired of the constant gunshot sounds and ambient noise around Ammu-Nation stores
    git clone https://github.com/DEVLeon06/disable_ammunation_sounds.git
    ```
 
-2. **Copy to your game directory**
-   - Copy the files to your main game directory
+2. **Put into your resource folder**
+   - Put the script into your resource or desired folder
 
-3. **Activate**
-   - Start the game and the script will be automatically active
+3. **starting the script**
+   - In your server.cfg add the line: ensure disable_ammunation_sounds
+   - restart your Server and you are Ready to Go!
 
 ## 📖 Usage
 
-The script is automatically loaded when you start the game. No further configuration is required.
+The script is plug and play. No further configuration is required.
 
 ## 🔧 Requirements
 
-- Game: Grand Theft Auto (Modding required)
-- Modding Framework: [Add framework requirements here]
+- None
 
 ## 📝 License
 
-This project is licensed under the [Add license here] license.
+This project is licensed under the MIT license.
 
 ## 🤝 Contributing
 
@@ -45,8 +45,5 @@ Contributions are welcome! Please open an issue or create a pull request with yo
 
 ## 📞 Support
 
-If you have any questions or issues, please create an issue in this repository.
-
----
-
-**Note:** This script is intended for modding purposes. Make sure to comply with the game's license terms.
+If you have any questions or issues, please create an issue in this repository. or on the discord.
+https://discord.gg/2mUJYGr5
